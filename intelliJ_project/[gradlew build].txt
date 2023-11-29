@@ -1,0 +1,9 @@
+[gradlew build]
+1. 터미널 열기
+2. cd 뒤에 hello-spring이 있는 경로 붙여넣기
+3. ./gradlew build
+==> build/libs/안에 생성된 거 확인
+4. 터미널에서 자바로 실행할 때는
+5. cd build/libs 쳐서 들어간 후
+6. java -jar hello-spring-0.0.1-SNAPSHOT.jar
+7. 빌드 클린할때는 ./gradlew clean build (ls 치면 목록 확인 할 수 있음 - 클린하면 build.gradle이 사라져있을 꺼임)
