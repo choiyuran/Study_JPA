@@ -1,8 +1,7 @@
-package jpabook.jpashop;
+package jpabook.jpashop.domain;
 
 import lombok.Getter;
 import lombok.Setter;
-import org.aspectj.weaver.ast.Or;
 
 import javax.persistence.*;
 import java.util.ArrayList;
