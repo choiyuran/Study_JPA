@@ -22,11 +22,11 @@
 
 | 번호 |  일차  |          내용          |     소스코드      |
 | :--: | :----: | :--------------------: | :---------------: |
-|  00  | 1일차  |   JPA 소개와 JPA시작 영속성 관리      | [바로가기 day01](https://github.com/choiyuran/Study_JPA/tree/main/datajpa) |
-|  01  | 2일차  |    엔티티 매핑, 연관관계 매핑 기초    | [바로가기][day02] |
-|  02  | 3일차  |  다양한 연관관계 매핑, 고급 매핑      | [바로가기][day03] |
-|  03  | 4일차  |  프록시와 연관관계 관리, 값 타입      | [바로가기][day04] |
-|  04  | 5일차  |  객체 지향 쿼리 언어(JPQL), 프로젝트 환경설정 | [바로가기][day05] |
+|  00  | 1일차  |   JPA 소개와 JPA시작 영속성 관리      | [바로가기 day01](https://github.com/choiyuran/Study_JPA/tree/main/datajpa3/src/main/java/study/datajpa) |
+|  01  | 2일차  |    엔티티 매핑, 연관관계 매핑 기초    | [바로가기 day02](https://github.com/choiyuran/Study_JPA/tree/main/day02_2/src/main/java/org/example/domain) |
+|  02  | 3일차  |  다양한 연관관계 매핑, 고급 매핑      | [바로가기 day03](https://github.com/choiyuran/Study_JPA/tree/main/day03_Problem3/src/main/java/org/example) |
+|  03  | 4일차  |  프록시와 연관관계 관리, 값 타입      | [바로가기 day04](https://github.com/choiyuran/Study_JPA/tree/main/day04_6/src/main/java/jpabook/jpashop/domain) |
+|  04  | 5일차  |  객체 지향 쿼리 언어(JPQL), 프로젝트 환경설정 | [바로가기 day05](https://github.com/choiyuran/Study_JPA/tree/main/day05_subQuery/src/main/java/org/example) |
 |  05  | 6일차  |  예제 도메인 모델                    | [바로가기][day06] |
 |  06  | 7일차  |  기본 문법, 중급 문법                | [바로가기][day07] |
 |  07  | 8일차  |  순수 JPA와 Querydsl                | [바로가기][day08] |
