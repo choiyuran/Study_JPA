@@ -32,7 +32,7 @@
 |  07  | 8일차  |  순수 JPA와 Querydsl                | [바로가기 day08](https://github.com/choiyuran/Study_JPA/tree/main/querydsl/src/main/java/study/querydsl) |
 |  08  | 9일차  |  스프링 데이터 JPA와 QueryDsl        | [바로가기 day09](https://github.com/choiyuran/Study_JPA/tree/main/querydsl2/src/main/java/study/querydsl) |
 |  09  | 10일차 |  스프링 데이터 JPA가 제공하는 QueryDsl  | [바로가기 day10](https://github.com/choiyuran/Study_JPA/tree/main/querydsl3/src/main/java/study/querydsl) |
-|  10  | 11일차 |   스프링 부트 3.x(2.6 이상), Querydsl 5.0 지원 방법  | [바로가기 day11](https://github.com/choiyuran/JPA_pdf/blob/main/querydslv20231127/8.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%203.x(2.6%20%EC%9D%B4%EC%83%81)%2C%20Querydsl%205.0%20%EC%A7%80%EC%9B%90%20%EB%B0%A9%EB%B2%95.pdf) |
+|  10  | 11일차 |   스프링 부트 3.x(2.6 이상), Querydsl 5.0 지원 방법  | [바로가기 day11](https://github.com/choiyuran/JPA_pdf/blob/main/querydsl-v20231127/8.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%203.x(2.6%20%EC%9D%B4%EC%83%81)%2C%20Querydsl%205.0%20%EC%A7%80%EC%9B%90%20%EB%B0%A9%EB%B2%95.pdf) |
 
 
 
